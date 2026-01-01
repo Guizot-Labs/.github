@@ -18,6 +18,7 @@ Here are some of the main applications developed by Guizot-Labs:
 | **[Monty](https://glabs.framer.ai/apps/monty)** | Budget Planner — manage budgets, savings, debts, and investments; all offline, private, and well organized. |
 | **[Flyt](https://glabs.framer.ai/apps/flyt)** | Trip Planner — plan, organize, and share your trips effortlessly; with offline access and smart itineraries. |
 | **[Corta](https://glabs.framer.ai/apps/corta)** | Tournament Bracket Maker — organize tournaments (e.g. cornhole) offline; create brackets, track scores, and manage players anywhere. |
+| **[Notes](https://glabs.framer.ai/apps/notes)** | Simple Notepad — Capture thoughts and ideas offline — create organized folders, rich text notes, and attach images anywhere. |
 
 ---
 
