@@ -9,16 +9,16 @@ Guizot-Labs builds and maintains a suite of tools and applications — from budg
 
 ## 📂 Our Apps & Projects  
 
-Here are some of the main applications developed by Guizot-Labs:
+Here are some of the main applications developed by **Guizot-Labs**:
 
-| App / Project | Description |
-|---------------|-------------|
-| **[We Ready](https://glabs.framer.ai/apps/we-ready)** | Event Planner — plan your perfect day: track guests, budgets, and vendors effortlessly in one place. |
-| **[Respy](https://glabs.framer.ai/apps/respy)** | Recipe Saver — collect, organize, and cook your favorite recipes; works offline and privately. |
-| **[Monty](https://glabs.framer.ai/apps/monty)** | Budget Planner — manage budgets, savings, debts, and investments; all offline, private, and well organized. |
-| **[Flyt](https://glabs.framer.ai/apps/flyt)** | Trip Planner — plan, organize, and share your trips effortlessly; with offline access and smart itineraries. |
-| **[Corta](https://glabs.framer.ai/apps/corta)** | Tournament Bracket Maker — organize tournaments (e.g. cornhole) offline; create brackets, track scores, and manage players anywhere. |
-| **[Notes](https://glabs.framer.ai/apps/notes)** | Simple Notepad — Capture thoughts and ideas offline — create organized folders, rich text notes, and attach images anywhere. |
+| App / Project | Description | Source Code |
+|---------------|-------------|-------------|
+| **[We Ready](https://glabs.framer.ai/apps/we-ready)** | Event Planner — plan your perfect day: track guests, budgets, and vendors effortlessly in one place. | **[GitHub](https://github.com/Guizot-Labs/we_ready_app)** |
+| **[Respy](https://glabs.framer.ai/apps/respy)** | Recipe Saver — collect, organize, and cook your favorite recipes; works offline and privately. | **[GitHub](https://github.com/Guizot-Labs/respy_app)** |
+| **[Monty](https://glabs.framer.ai/apps/monty)** | Budget Planner — manage budgets, savings, debts, and investments; all offline, private, and well organized. | **[GitHub](https://github.com/Guizot-Labs/monty_app)** |
+| **[Flyt](https://glabs.framer.ai/apps/flyt)** | Trip Planner — plan, organize, and share your trips effortlessly; with offline access and smart itineraries. | **[GitHub](https://github.com/Guizot-Labs/flyt_app)** |
+| **[Corta](https://glabs.framer.ai/apps/corta)** | Tournament Bracket Maker — organize tournaments (e.g. cornhole) offline; create brackets, track scores, and manage players anywhere. | **[GitHub](https://github.com/Guizot-Labs/corta_app)** |
+| **[Notes](https://glabs.framer.ai/apps/notes)** | Simple Notepad — capture thoughts and ideas offline; create organized folders, rich text notes, and attach images anywhere. | **[GitHub](https://github.com/Guizot-Labs/notes_app)** |
 
 ---
 
