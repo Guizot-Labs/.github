@@ -19,7 +19,7 @@ Here are some of the main applications developed by **Guizot-Labs**:
 | **[Flyt](https://glabs.framer.ai/apps/flyt)** | **[GitHub](https://github.com/Guizot-Labs/flyt_app)** | Trip Planner — plan, organize, and share your trips effortlessly; with offline access and smart itineraries. |
 | **[Corta](https://glabs.framer.ai/apps/corta)** | **[GitHub](https://github.com/Guizot-Labs/corta_app)** | Tournament Bracket Maker — organize tournaments (e.g. cornhole) offline; create brackets, track scores, and manage players anywhere. |
 | **[Notes](https://glabs.framer.ai/apps/notes)** | **[GitHub](https://github.com/Guizot-Labs/notes_app)** | Simple Notepad — capture thoughts and ideas offline; create organized folders, rich text notes, and attach images anywhere. |
-| **[Peach](https://glabs.framer.ai/apps/peach)** | **[GitHub](https://github.com/Guizot-Labs/peach_app)** | Peach Todo List — |
+| **[Kodi](https://glabs.framer.ai/apps/kodi)** | **[GitHub](https://github.com/Guizot-Labs/kodi_app)** | Kodi Todo List — |
 
 ---
 
